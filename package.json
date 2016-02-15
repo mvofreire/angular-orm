@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mvofreire/angular-orm/issues"
   },
-  "homepage": "https://github.com/mvofreire/angular-orm#readme"
+  "homepage": "https://github.com/mvofreire/angular-orm#readme",
+  "devDependencies": {
+    "promise": "^7.1.1"
+  }
 }
